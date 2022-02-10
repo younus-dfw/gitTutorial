@@ -1,1 +1,2 @@
-This is sample text file, text is ok. File updating
+This is sample text file, text is ok.
+File updating  with some data
