@@ -1,3 +1,4 @@
 This is sample text file, text is ok.
 File updating  with some data
 ADDING CODE UPDATES in MASTER.....
+Code changes - Updating the content from newBranch2 
