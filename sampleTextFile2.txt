@@ -1,2 +1,3 @@
 This is sample text file, text is ok.
 File updating  with some data
+Code changes - Updating the content from newBranch2 
